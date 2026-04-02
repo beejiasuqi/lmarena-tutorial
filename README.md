@@ -9,7 +9,7 @@
 ## 关于 LMArena
 
 LMArena 是一个创新性的AI模型评估平台，您可以在这里免费体验：
-- GPT-5.2、Gemini 3 Pro、Claude Opus 4.5 等顶级文本模型，
+- GPT-5.2、Gemini 3 Pro、Claude Opus 4.5 等顶级文本模型
 - Nano Banana Pro、FLUX 2 等图像生成模型
 - Veo 3.1、Sora 2 等视频生成模型
 
